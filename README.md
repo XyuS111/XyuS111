@@ -1,4 +1,5 @@
-_G.EnemyColor = Color3.fromRGB(0, 255, 255)
+_G.FriendColor = Color3.fromRGB(0, 0, 0)
+_G.EnemyColor = Color3.fromRGB(0, 100, 100)
 _G.UseTeamColor = false
 
 --------------------------------------------------------------------
@@ -7,8 +8,8 @@ Holder.Name = "ESP"
 
 local Box = Instance.new("BoxHandleAdornment")
 Box.Name = "nilBox"
-Box.Size = Vector3.new(1, 2, 1)
-Box.Color3 = Color3.new(100 / 255, 100 / 255, 100 / 255)
+Box.Size = Vector3.new(1, 1, 1)
+Box.Color3 = Color3.new(100 / 100, 100 / 255, 100 / 255)
 Box.Transparency = 0.7
 Box.ZIndex = 0
 Box.AlwaysOnTop = false
