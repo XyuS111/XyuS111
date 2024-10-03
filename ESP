@@ -1,5 +1,5 @@
-_G.FriendColor = Color3.fromRGB(0, 0, 0)
-_G.EnemyColor = Color3.fromRGB(0, 100, 100)
+_G.FriendColor = Color3.fromRGB(none)
+_G.EnemyColor = Color3.fromRGB(0, 0, 0)
 _G.UseTeamColor = false
 
 --------------------------------------------------------------------
