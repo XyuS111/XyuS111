@@ -6,7 +6,7 @@ _G.Settings = {
         ["Ignore Tools"] = true
     },
     Meshes = {
-        NoMesh = true,
+        NoMesh = false,
         NoTexture = false,
         Destroy = false
     },
