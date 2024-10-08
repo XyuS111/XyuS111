@@ -3,7 +3,7 @@ local ToDisable = {
 	VisualEffects = true,
 	Parts = true,
 	Particles = true,
-	Sky = true
+	Sky = false
 }
 
 local ToEnable = {
