@@ -15,7 +15,7 @@ _G.Settings = {
         Destroy = false
     },
     Explosions = {
-        Smaller = true,
+        Smaller = false,
         Invisible = false, -- Not for PVP games
         Destroy = false -- Not for PVP games
     },
@@ -29,7 +29,7 @@ _G.Settings = {
         Destroy = false
     },
     MeshParts = {
-        LowerQuality = true,
+        LowerQuality = false,
         Invisible = false,
         NoTexture = false,
         NoMesh = false,
