@@ -44,7 +44,6 @@ _G.Settings = {
 		["No Clothes"] = true,
 		["Low Water Graphics"] = true,
 		["No Shadows"] = true,
-		["Low Rendering"] = true,
 		["Low Quality Parts"] = true,
 		["Low Quality Models"] = true,
 		["Reset Materials"] = true,
