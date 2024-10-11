@@ -8,7 +8,7 @@ m = Instance.new("Message")
 script.Name = n.."'s antiban" 
 --------------You can change below------------------
 respawntime = 90 
-protect = "erikz345345" 
+protect = "WhyNot_XyuS" 
 -------Version [Don't change]------------
 version = 1.05 
 
